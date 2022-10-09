@@ -11,6 +11,7 @@ page_number: true
 
 #### by Stephen Sherratt (@gridbugs)
 
+stephen@sherra.tt
 github.com/gridbugs
 twitch.tv/gridbugs
 gridbugs.itch.io
