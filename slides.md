@@ -11,6 +11,12 @@ page_number: true
 
 #### by Stephen Sherratt (@gridbugs)
 
+github.com/gridbugs
+twitch.tv/gridbugs
+gridbugs.itch.io
+gridbugs.org
+twitter.com/gridbugstv
+
 ---
 
 # Chargrid
